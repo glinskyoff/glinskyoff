@@ -1,16 +1,24 @@
-### Hi there 👋
+```js
+const AboutMe = () => {
+  return (
+    <>
+      <Container>
+        <section id='bio'>
+          <Name first='Denis' last='Pisarevskii' />
+          <UserName content='glinsky' />
+          <Age content='18' />
+          <Education place='OGKUiPT' status='Student' />
+          <Location country='Russia' city='Omsk' />
+        </section>
 
-<!--
-**glinskyoff/glinskyoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        <section id='skills'>
+          <FrontEndSkills content='HTML, CSS/SCSS, JS/JSX, React' />
+          <BackEndSkills content='PHP, JQuery, Ajax, MySQL' />
+          <Others content='Python' />
+        </section>
+      </Container>
+    </>
+  )
+} 
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
