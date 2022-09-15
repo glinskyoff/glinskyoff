@@ -11,7 +11,7 @@ const AboutMe = () => {
           <Location country='Russia' city='Omsk' />
         </section>
 
-        <section id='skills'>
+        <section id='learning'>
           <FrontEndSkills content='HTML, CSS/SCSS, JS/JSX, React' />
           <BackEndSkills content='PHP, JQuery, Ajax, MySQL' />
           <Others content='Python' />
