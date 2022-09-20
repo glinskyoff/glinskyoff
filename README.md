@@ -12,8 +12,8 @@ const AboutMe = () => {
         </section>
 
         <section id='learning'>
-          <FrontEndSkills content='HTML, CSS/SCSS, React, JS/JSX, JQuery, Ajax' />
-          <BackEndSkills content='PHP, MySQL' />
+          <FrontEnd content='HTML, CSS/SCSS, React, JS/JSX, JQuery, Ajax' />
+          <BackEnd content='PHP, MySQL' />
           <Others content='Python' />
         </section>
       </Container>
