@@ -7,7 +7,7 @@ const AboutMe = () => {
           <Name first='Denis' last='Pisarevskii' />
           <UserName content='glinsky' />
           <Age content='18' />
-          <Education place='OGKUiPT' status='Student' />
+          <Education place='OGKUiPT' status='Student' stage='3' />
           <Location country='Russia' city='Omsk' />
         </section>
 
