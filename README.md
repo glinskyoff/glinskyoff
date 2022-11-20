@@ -12,7 +12,7 @@ const AboutMe = () => {
         </section>
 
         <section id='learning'>
-          <FrontEnd content='HTML, CSS/SCSS, React, JS/JSX, JQuery, Ajax' />
+          <FrontEnd content='HTML, CSS/SCSS, React, JS/JSX, TS/TSX, JQuery, Ajax' />
           <BackEnd content='PHP, MySQL' />
           <Others content='Python' />
         </section>
