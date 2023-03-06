@@ -13,7 +13,6 @@ export const AboutMe: React.FC = () => {
 
         <section id='learning'>
           <FrontEnd content='HTML, CSS/SCSS, React, JS/JSX, TS/TSX' />
-          <BackEnd content='PHP, MySQL,' />
           <DataBase content='MySQL, MongoDB' />
           <Others content='Python' />
         </section>
