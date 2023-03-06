@@ -1,5 +1,5 @@
-```ts
-const AboutMe = () => {
+```js
+export const AboutMe: React.FC = () => {
   return (
     <>
       <Container>
