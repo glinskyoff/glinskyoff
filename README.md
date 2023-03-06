@@ -1,5 +1,5 @@
 ```js
-const AboutMe: React.FC = () => {
+const AboutMe = () => {
   return (
     <>
       <Container>
