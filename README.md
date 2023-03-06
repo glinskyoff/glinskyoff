@@ -1,5 +1,5 @@
 ```js
-export const AboutMe: React.FC = () => {
+const AboutMe: React.FC = () => {
   return (
     <>
       <Container>
