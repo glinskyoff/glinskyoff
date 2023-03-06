@@ -1,4 +1,4 @@
-```js
+```ts
 const AboutMe = () => {
   return (
     <>
@@ -12,8 +12,9 @@ const AboutMe = () => {
         </section>
 
         <section id='learning'>
-          <FrontEnd content='HTML, CSS/SCSS, React, JS/JSX, TS/TSX, JQuery, Ajax' />
-          <BackEnd content='PHP, MySQL' />
+          <FrontEnd content='HTML, CSS/SCSS, React, JS/JSX, TS/TSX' />
+          <BackEnd content='PHP, MySQL,' />
+          <DataBase content='MySQL, MongoDB' />
           <Others content='Python' />
         </section>
       </Container>
