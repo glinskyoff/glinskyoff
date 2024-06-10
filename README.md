@@ -12,8 +12,8 @@ const AboutMe = () => {
         </section>
 
         <section id='learning'>
-          <FrontEnd content='HTML, CSS/SCSS, React, JS/JSX, TS/TSX' />
-          <DataBase content='MongoDB' />
+          <FrontEnd content='HTML, CSS/SCSS, React, JS/JSX, TS/TSX, Node.JS, Express' />
+          <DataBase content='MongoDB, MySQL' />
           <Others content='Python' />
         </section>
       </Container>
