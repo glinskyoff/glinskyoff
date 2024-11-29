@@ -6,8 +6,8 @@ const AboutMe = () => {
         <section id='bio'>
           <Name first='Denis' last='Pisarevskii' />
           <UserName content='glinsky' />
-          <Age content='19' />
-          <Education place='OGKUiPT' status='Student' />
+          <Age content='20' />
+          <Education place='OGKUiPT' status='Student' interval='2020-2024' />
           <Location country='Russia' city='Omsk' />
         </section>
 
